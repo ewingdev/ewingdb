@@ -1,0 +1,27 @@
+{
+  "name": "ewingdb",
+  "version": "0.0.1",
+  "description": "a JSON database module",
+  "main": "index.js",
+  "keywords": [
+    "ewing",
+    "ewing-api",
+    "ewing-api",
+    "ewingdb",
+    "ewing-db",
+    "json",
+    "jsondb",
+    "db",
+    "database"
+  ],
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewingdev/ewingdb.git"
+  },
+  "author": "ewingdev",
+  "license": "MIT"
+}
